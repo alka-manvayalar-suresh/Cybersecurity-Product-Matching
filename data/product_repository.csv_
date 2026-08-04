@@ -1,0 +1,120 @@
+id,product_name,vendor_name
+PROD001,Defender for Enpoint,Microsoft
+PROD002,CrowdStrike Falcon Enterprise,CrowdStrike
+PROD003,Cisco Firepower 2000 Series,Cisco
+PROD004,Wiz Cloud,Wiz
+PROD005,Wiz Defend,Wiz
+PROD006,Tanium Endpoint Protection,Tanium
+PROD007,Zscaler Internet Access,Zscaler
+PROD008,Palo Alto Networks VM-Series Firewall,Palo Alto Networks
+PROD009,Palo Alto Networks Cortex XDR,Palo Alto Networks
+PROD010,Fortinet FortiGate 100F,Fortinet
+PROD011,Fortinet FortiAnalyzer,Fortinet
+PROD012,Check Point Quantum 6200,Check Point
+PROD013,Check Point Harmony Endpoint,Check Point
+PROD014,Okta Workforce Identity Cloud,Okta
+PROD015,Okta Adaptive MFA,Okta
+PROD016,Proofpoint Email Protection,Proofpoint
+PROD017,Proofpoint Threat Response,Proofpoint
+PROD018,Rapid7 InsightVM,Rapid7
+PROD019,Rapid7 InsightIDR,Rapid7
+PROD020,SentinelOne Singularity Complete,SentinelOne
+PROD021,SentinelOne Ranger,SentinelOne
+PROD022,Splunk Enterprise Security,Splunk
+PROD023,Splunk SOAR,Splunk
+PROD024,FireEye Endpoint Security,FireEye
+PROD025,FireEye Helix,FireEye
+PROD026,Trend Micro Apex One,Trend Micro
+PROD027,Trend Micro Cloud One,Trend Micro
+PROD028,Sophos Intercept X Advanced,Sophos
+PROD029,Sophos XG Firewall,Sophos
+PROD030,VMware Carbon Black Cloud,VMware
+PROD031,VMware NSX Distributed Firewall,VMware
+PROD032,McAfee MVISION Endpoint,McAfee
+PROD033,McAfee Web Gateway,McAfee
+PROD034,Armis Asset Intelligence,Armis
+PROD035,Armis Centrix,Armis
+PROD036,F5 BIG-IP Advanced WAF,F5
+PROD037,F5 NGINX App Protect,F5
+PROD038,Ivanti Neurons for Zero Trust Access,Ivanti
+PROD039,Ivanti Secure Access Client,Ivanti
+PROD040,Trellix Endpoint Security,Trellix
+PROD041,Trellix Helix,Trellix
+PROD042,Cato Networks SASE Cloud,Cato Networks
+PROD043,Cato Networks MDR,Cato Networks
+PROD044,CrowdStrike Falcon OverWatch,CrowdStrike
+PROD045,CrowdStrike Falcon Complete,CrowdStrike
+PROD046,Cisco SecureX,Cisco
+PROD047,Cisco Umbrella,Cisco
+PROD048,Cisco Duo Security,Cisco
+PROD049,Microsoft Defender for Endpoint,Microsoft
+PROD050,Microsoft Defender for Office 365,Microsoft
+PROD051,Microsoft Sentinel,Microsoft
+PROD052,Microsoft Purview Compliance,Microsoft
+PROD053,Wiz Edge,Wiz
+PROD054,Wiz Container Security,Wiz
+PROD055,Tanium Threat Response,Tanium
+PROD056,Tanium Comply,Tanium
+PROD057,Zscaler Private Access,Zscaler
+PROD058,Zscaler Digital Experience,Zscaler
+PROD059,Akamai Enterprise Threat Protector,Akamai
+PROD060,Akamai Kona Site Defender,Akamai
+PROD061,Akamai Bot Manager,Akamai
+PROD062,CyberArk Privileged Access Manager,CyberArk
+PROD063,CyberArk Endpoint Privilege Manager,CyberArk
+PROD064,CyberArk Secrets Manager,CyberArk
+PROD065,Barracuda CloudGen Firewall,Barracuda
+PROD066,Barracuda Email Security Gateway,Barracuda
+PROD067,Barracuda Web Application Firewall,Barracuda
+PROD068,RSA NetWitness Platform,RSA
+PROD069,RSA SecurID,RSA
+PROD070,RSA Archer Suite,RSA
+PROD071,Elastic Security,Elastic
+PROD072,Elastic Endpoint Security,Elastic
+PROD073,Elastic SIEM,Elastic
+PROD074,ExtraHop Reveal(x) 360,ExtraHop
+PROD075,ExtraHop Reveal(x) Enterprise,ExtraHop
+PROD076,Gigamon ThreatINSIGHT,Gigamon
+PROD077,Gigamon GigaVUE HC Series,Gigamon
+PROD078,Illumio Core,Illumio
+PROD079,Illumio Edge,Illumio
+PROD080,Qualys Vulnerability Management,Qualys
+PROD081,Qualys Patch Management,Qualys
+PROD082,Qualys Web Application Scanning,Qualys
+PROD083,Varonis Data Security Platform,Varonis
+PROD084,Varonis DatAdvantage,Varonis
+PROD085,Varonis Edge,Varonis
+PROD086,Darktrace Enterprise Immune System,Darktrace
+PROD087,Darktrace Antigena Email,Darktrace
+PROD088,Darktrace Antigena Network,Darktrace
+PROD089,Netskope Security Cloud,Netskope
+PROD090,Netskope Private Access,Netskope
+PROD091,Netskope Threat Protection,Netskope
+PROD092,Imperva Application Security,Imperva
+PROD093,Imperva Data Security,Imperva
+PROD094,Imperva DDoS Protection,Imperva
+PROD095,Skybox Security Vulnerability Control,Skybox Security
+PROD096,Skybox Security Firewall Assurance,Skybox Security
+PROD097,Tufin SecureTrack,Tufin
+PROD098,Tufin SecureApp,Tufin
+PROD099,Defender for Cloud Apps,Microsoft
+PROD100,Azure ID,Microsoft
+PROD101,Sentinel,Microsoft
+PROD102,Defender for Cloud Apps,Microsoft
+PROD103,Purview Information protection,Microsoft
+PROD104,Wiz CNAAP,Wiz
+PROD105,Wiz Code,Wiz
+PROD106,Reposify,CrowdStrike Falcon Surface (formerly Reposify)
+PROD107,Falcon Insight XDR,CrowdStrike 
+PROD108,Falcon Insight for IoT,CrowdStrike 
+PROD109,Crowdstrike Falcon Cloud Security,CrowdStrike 
+PROD110,Falcon Firewall Management,CrowdStrike 
+PROD111,Tanium XEM Core,Tanium
+PROD112,Tanium Deploy,Tanium
+PROD113,Tanium Discover,Tanium
+PROD114,Tanium Appliance,Tanium
+PROD115,Cisco Firepower 2000 Series	Appliances,Cisco
+PROD116,Cisco Firepower 5500 Series,Cisco
+PROD117,Cisco Firepower 2100 Series,Cisco
+PROD118,Cisco Firepower 3000 Series,Cisco
+PROD119,Cisco Firepower 4000 Series,Cisco
